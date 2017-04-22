@@ -1,0 +1,29 @@
+{
+  "name": "tiny-fridge",
+  "version": "1.0.0",
+  "description": "A smart application which provides you suggestions on what to cook based on what (grocery) you have.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rutulpatel/tiny-fridge.git"
+  },
+  "keywords": [
+    "food",
+    "suggestions",
+    "nodejs",
+    "app"
+  ],
+  "author": "Rutul Patel <rutulpatel.rtl@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rutulpatel/tiny-fridge/issues"
+  },
+  "homepage": "https://github.com/rutulpatel/tiny-fridge#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "path": "^0.12.7"
+  }
+}
